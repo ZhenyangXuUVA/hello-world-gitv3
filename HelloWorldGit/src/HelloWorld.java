@@ -14,6 +14,7 @@ public class HelloWorld {
 		//System.out.println("Hello " + input + "!");
 		MyPrinter.print("Hello " + input + "!");
 	
+		
 	}
 
 }
