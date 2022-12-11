@@ -21,4 +21,5 @@ public class MyScanner {
 		
 		return input;
 	}
+	
 }
